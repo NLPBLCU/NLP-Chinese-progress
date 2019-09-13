@@ -1,2 +1,4 @@
 # NLP-Chinese-progress
-NLP， Chinese Dataset, progress
+
+Tracking Progress in Natural Language Processing on Chinese Dataset
+Table of contents
